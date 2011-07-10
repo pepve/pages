@@ -9,7 +9,10 @@
   <p><label>Optional description: <input size="60" type="text" name="note" value="{{note}}"></label> 
     <input type="submit" value="Save Changes">
   </p>
-  {{>help}}
+  <a id="help-button" href="">help</a>
+  <div id="help-container" class="hide">
+    {{>help}}
+  </div>
 </div>
 <div class="preview"></div>
 <div class="clear"></div>
