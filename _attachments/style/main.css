@@ -91,7 +91,7 @@ p.menu a {
   max-width:35%;
 }
 
-#wiki, #comments, #files {
+#wiki, #files {
   margin: 12px 0px;
   padding: 12px 32px;
 }
@@ -107,26 +107,6 @@ p.menu a {
 }
 #wiki code {
   background:#ddd;
-}
-
-#comments {
-  background:#efeeef;
-}
-
-#comments p {
-  margin-bottom:4px;
-}
-
-#comments li {
-  margin:4px 0px;
-  padding:4px 0px;
-  background:#dfdcdf;
-  list-style-type: none;
-}
-
-#comments ul {
-  margin: 0;
-  padding: 0;
 }
 
 .date {
