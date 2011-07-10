@@ -1,5 +1,5 @@
 {
-  "name": "CouchApp Pages",
+  "name": "Pages",
   "description": "A Simple CouchApp Wiki",
   "index" : "_rewrite/page/index",
   "load" : {
